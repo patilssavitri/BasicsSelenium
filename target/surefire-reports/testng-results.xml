@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57296" started-at="2021-06-17T16:19:28 IST" finished-at="2021-06-17T16:20:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57296" started-at="2021-06-17T16:19:28 IST" finished-at="2021-06-17T16:20:25 IST">
+      <class name="com.sdet.AppTest">
+        <test-method status="PASS" signature="testLogin1()[pri:0, instance:com.sdet.AppTest@76a3e297]" name="testLogin1" duration-ms="93" started-at="2021-06-17T16:20:25 IST" finished-at="2021-06-17T16:20:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin1 -->
+        <test-method status="PASS" signature="testLogin2()[pri:0, instance:com.sdet.AppTest@76a3e297]" name="testLogin2" duration-ms="1" started-at="2021-06-17T16:20:25 IST" finished-at="2021-06-17T16:20:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin2 -->
+      </class> <!-- com.sdet.AppTest -->
+      <class name="com.sdet.TC_Login">
+        <test-method status="PASS" signature="excel_Test()[pri:0, instance:com.sdet.TC_Login@12f41634]" name="excel_Test" duration-ms="10" started-at="2021-06-17T16:19:28 IST" finished-at="2021-06-17T16:19:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excel_Test -->
+        <test-method status="PASS" signature="login_Test()[pri:0, instance:com.sdet.TC_Login@12f41634]" name="login_Test" duration-ms="57098" started-at="2021-06-17T16:19:28 IST" finished-at="2021-06-17T16:20:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Test -->
+      </class> <!-- com.sdet.TC_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

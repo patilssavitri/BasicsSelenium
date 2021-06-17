@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36886" started-at="2021-06-17T17:33:54 IST" finished-at="2021-06-17T17:34:31 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36886" started-at="2021-06-17T17:33:54 IST" finished-at="2021-06-17T17:34:31 IST">
+      <class name="com.sdet.AuthAlertPopup">
+        <test-method status="PASS" signature="AuthTest()[pri:0, instance:com.sdet.AuthAlertPopup@710726a3]" name="AuthTest" duration-ms="36756" started-at="2021-06-17T17:33:54 IST" finished-at="2021-06-17T17:34:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AuthTest -->
+      </class> <!-- com.sdet.AuthAlertPopup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

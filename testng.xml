@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+   <classes>
+      <class name="com.sdet.TC_Login"/>
+      <class name="com.sdet.AppTest"/>
+      <class name="com.sdet.AlertsHandle"/>
+      <class name="com.sdet.AuthAlertPopup"/>
+      <class name="com.sdet.AutoCompletePlacesDropdown"/>
+      <class name="com.sdet.AutoSelectDropdown"/>
+      <class name="com.sdet.bootStrapDropdown"/>
+      <class name="com.sdet.DropdownSorted"/>
+      <class name="com.sdet.findEle"/>
+      <class name="com.sdet.frames"/>
+      <class name="com.sdet.InnerFrame"/>
+      <class name="com.sdet.IsSelect"/>
+      <class name="com.sdet.JQueryDropdown"/>
+      <class name="com.sdet.LaunchBrowser"/>
+      <class name="com.sdet.LinkSc"/>
+      <class name="com.sdet.NavigateTest"/>
+      <class name="com.sdet.parentFramet"/>
+      <class name="com.sdet.SelectCheckbox"/>
+      <class name="com.sdet.SelectDropdown"/>
+      <class name="com.sdet.SyncConcept"/>
+      <class name="com.sdet.textAttribute"/>
+      <class name="com.sdet.Winhandle"/>      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
